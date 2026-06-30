@@ -9,3 +9,14 @@
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://vercel.app" width="480"/>
+    </td>
+    <td>
+      <img src="https://vercel.app" width="360"/>
+    </td>
+  </tr>
+</table>
