@@ -1,1 +1,1 @@
-![Ayush Pandey](./ayush-pandey-hero (2).svg)
+![Ayush Pandey](./ayush-pandey-hero-main.svg)
